@@ -1,0 +1,4 @@
+kubernetes_host = ""
+kubernetes_client_certificate = ""
+kubernetes_client_key = ""
+kubernetes_cluster_ca_certificate = ""
